@@ -1,0 +1,11 @@
+D:\Other\GitRepo\AgeChecker\obj\Debug\netcoreapp2.2\AgeChecker.csprojAssemblyReference.cache
+D:\Other\GitRepo\AgeChecker\obj\Debug\netcoreapp2.2\AgeChecker.csproj.CoreCompileInputs.cache
+D:\Other\GitRepo\AgeChecker\obj\Debug\netcoreapp2.2\AgeChecker.AssemblyInfoInputs.cache
+D:\Other\GitRepo\AgeChecker\obj\Debug\netcoreapp2.2\AgeChecker.AssemblyInfo.cs
+D:\Other\GitRepo\AgeChecker\bin\Debug\netcoreapp2.2\AgeChecker.deps.json
+D:\Other\GitRepo\AgeChecker\bin\Debug\netcoreapp2.2\AgeChecker.runtimeconfig.json
+D:\Other\GitRepo\AgeChecker\bin\Debug\netcoreapp2.2\AgeChecker.runtimeconfig.dev.json
+D:\Other\GitRepo\AgeChecker\bin\Debug\netcoreapp2.2\AgeChecker.dll
+D:\Other\GitRepo\AgeChecker\bin\Debug\netcoreapp2.2\AgeChecker.pdb
+D:\Other\GitRepo\AgeChecker\obj\Debug\netcoreapp2.2\AgeChecker.dll
+D:\Other\GitRepo\AgeChecker\obj\Debug\netcoreapp2.2\AgeChecker.pdb
